@@ -1,0 +1,14 @@
+[{"name":"bottom_hero","x":0,"y":32,"width":32,"height":32},
+  {"name":"top_hero","x":32,"y":32,"width":32,"height":32},
+  {"name":"left_hero","x":64,"y":32,"width":32,"height":32},
+  {"name":"right_hero","x":96,"y":32,"width":32,"height":32},
+
+
+  {"name":"bottom_enemy","x":0,"y":0,"width":32,"height":32},
+  {"name":"top_enemy","x":32,"y":0,"width":32,"height":32},
+  {"name":"left_enemy","x":64,"y":0,"width":32,"height":32},
+  {"name":"right_enemy","x":96,"y":0,"width":32,"height":32},
+
+  {"name":"rocket","x":128,"y":0,"width":32,"height":32},
+  {"name":"bonus","x":128,"y":32,"width":32,"height":32}
+]
